@@ -147,3 +147,7 @@ ul li{
     left: -35px;
     /* display: none; */
 }
+
+.ico-up{
+    display: none;
+}
